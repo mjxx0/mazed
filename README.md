@@ -1,2 +1,0 @@
-# mazed
-portfolio
